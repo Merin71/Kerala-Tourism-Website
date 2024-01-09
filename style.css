@@ -107,3 +107,19 @@ input[type="password"] {
 .btn-primary:hover {
     background-color: rgb(4, 41, 162);
 }
+
+/* Districts page */
+.h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #007bff;
+}
+.container-fluid.row{
+    padding-top: 2mm;
+    padding-left: 1cm;
+}
+.row{
+    padding-left:4cm;
+    padding-top:3mm;
+}
+
