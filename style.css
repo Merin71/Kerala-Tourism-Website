@@ -38,7 +38,7 @@
 header{
     text-align: center;
     color: rgb(5, 159, 249);
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     font-size:40px;
     
 }
@@ -53,7 +53,7 @@ header{
 
 .carousel img {
     width: 100%;
-    height: auto;
+    height: 500px;
     display: block;
 }
 
