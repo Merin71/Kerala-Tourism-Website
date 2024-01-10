@@ -4,12 +4,15 @@
 }
 /* navbar section */
 .bg-color-aqua{
-    background-color: aqua;
+    background-color:#e3f2fd;
 }
 #logo{
-    margin-left:1mm;
+    margin-left:3mm;
     margin-top: 1mm;
     margin-bottom: 5px;
+}
+.navbar.container-fluid{
+    margin-top: 1%;
 }
 .navbar-nav{
     margin-left:40%;
@@ -18,7 +21,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:white;
     text-decoration:none;
-    padding: 2px;
+    padding: 1px;
     margin: 5px;
     transition: background-color 0.5s ease;
 }
@@ -32,24 +35,35 @@
 }
 
 /* heading */
-.h2{
+header{
     text-align: center;
-    color: rgb(249, 229, 5);
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(5, 159, 249);
+    font-family:Arial, Helvetica, sans-serif;
     font-size:40px;
     
 }
 
 /* Carousel */
+.carousel {
+    position: relative;
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
 
+.carousel img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
 
 /* footer */
-.container-fluid.row{
+/* .container-fluid.row{
     position:fixed;
 }
 .footer{
-    background-color:black;
+    background-color:rgb(188, 183, 183);
     color:white;
     text-align: center;
     padding: 20px;
@@ -60,6 +74,16 @@
 .footer a {
     color: #fff;
     text-decoration: none;
+} */
+
+.footer {
+    background:#fff;
+    color: #141414;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 /* Login page */
