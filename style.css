@@ -127,3 +127,7 @@ input[type="password"] {
     
 }
 
+/* Wayyanad page */
+.container-fluid.row{
+    padding-left: 3cm;
+}
