@@ -45,14 +45,17 @@
 
 
 /* footer */
+.container-fluid.row{
+    position:fixed;
+}
 .footer{
-    background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    position:fixed;
+    bottom: 0;
+    width: 70%;
 }
 .footer a {
     color: #fff;
