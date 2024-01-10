@@ -63,16 +63,21 @@
 }
 
 /* Login page */
-.container
+.Login{
+    background-image: url(Districts/hill2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#e8e5e5;
+}
 /* SignUp page */
 body {
     font-family: 'Arial', sans-serif;
-    /* background-image: url(https://mostbeautifulplaceskerala.files.wordpress.com/2013/07/vythiri-wayanad.jpg?w=1024); */
 }
 .SignUp{
     background-image: url(Districts/lake.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: #e4e3e3;
 }
 .container {
     max-width: 400px;
@@ -119,7 +124,7 @@ input[type="password"] {
 .h3{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #007bff;
+    color: #087efc;
 }
 .container-fluid.row{
     padding-top: 2mm;
