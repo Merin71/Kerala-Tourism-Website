@@ -160,11 +160,65 @@ input[type="password"] {
     
 }
 
+/* Alapuzzha page */
+.container-fluid h4{
+    text-align: left;
+}
+.container-fluid h5{
+    text-align: center ;
+}
+p{
+    font-size: smaller;
+}
+
+/* Idukki page */
+.container-fluid h4{
+    text-align: left;
+}
+.container-fluid h5{
+    text-align: center;
+}
+p{
+    font-size: smaller;
+}
+
+/* Palakkad page */
+.container-fluid h4{
+    text-align: left;
+}
+.container-fluid h5{
+    text-align: center;
+}
+p{
+    font-size: smaller;
+}
+
+/* Pathanamthitta page */
+.container-fluid h4{
+    text-align: left;
+}
+.container-fluid h5{
+    text-align: center;
+}
+.container-fluid p{
+    font-size:smaller;
+    
+}
+
+
 /* Wayyanad page */
 .container-fluid{
     padding-top:4mm;
 }
-.container-fluid.row{
-    padding: auto;
-    padding-right: 600px;
+.container-fluid h4{
+    text-align: left;
 }
+.container-fluid h5{
+    text-align: center ;
+}
+p{
+    font-size: smaller;
+}
+.container-fluid.row{
+    padding-right: 10cm;
+} 
