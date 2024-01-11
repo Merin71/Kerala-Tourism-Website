@@ -186,9 +186,6 @@ p{
 .container-fluid h4{
     text-align: left;
 }
-.container-fluid h5{
-    text-align: center;
-}
 p{
     font-size: smaller;
 }
@@ -196,9 +193,6 @@ p{
 /* Pathanamthitta page */
 .container-fluid h4{
     text-align: left;
-}
-.container-fluid h5{
-    text-align: center;
 }
 .container-fluid p{
     font-size:smaller;
@@ -212,9 +206,6 @@ p{
 }
 .container-fluid h4{
     text-align: left;
-}
-.container-fluid h5{
-    text-align: center ;
 }
 p{
     font-size: smaller;
