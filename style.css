@@ -150,14 +150,28 @@ input[type="password"] {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #087efc;
 }
-.container-fluid.row{
+/* .container-fluid.row{
     padding-top: 2mm;
-    padding-left: 1cm;
+    padding-left: 10mm;
 }
 .row{
     padding-left:4cm;
     padding-top:3mm;
     
+} */
+.column-container{
+    padding: 40px; /* Adjust the padding as needed */
+    padding-left: 100px; 
+  }
+
+.column{
+    padding: 10px; 
+    text-align: center;
+}
+
+column img {
+    max-width: 100%; 
+    height: auto; */
 }
 
 /* Alapuzzha page */
