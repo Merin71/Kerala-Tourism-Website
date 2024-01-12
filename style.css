@@ -71,10 +71,13 @@ h2{
 
 /* Login page */
 .Login{
-    background-image: url(Districts/hill2.avif);
+    background-image: url(Districts/lake.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color:#e8e5e5;
+}
+h2{
+    text-align: center;
 }
 
 /* SignUp page */
