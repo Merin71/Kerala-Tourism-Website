@@ -58,15 +58,16 @@ h2{
 }
 
 /* footer */
-.footer{
+footer{
     background:#fff;
     color: #141414;
     text-align:center;
-    font-size:x-small;
+    font-size:small;
     padding: .5em 0;
     position: fixed;
     bottom: 0;
     width: 100%;
+    height: 70px;
 }
 
 /* Login page */
@@ -120,12 +121,12 @@ body {
     background-size: cover;
     color: #e4e3e3;
 }
-.container2 {
+.container2{
     max-width: 400px;
     margin: 50px auto; 
     padding: 20px;
     /* border: 1px solid #ccc; * */
-    border-radius: 5px;
+    /* border-radius: 5px; */
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
     /* background-color: #ccc; */
 } 
@@ -229,3 +230,4 @@ p{
 .container-fluid.row{
     padding-right: 10cm;
 } 
+
